@@ -3,18 +3,18 @@ Having worked as an IT Administrator for the last 20+ years, I have finally deci
 
 I will, over time, add some tech notes, tutorials on various technology but as I work predominately with Microsoft technology there will be a focus on the following;
 
-### Windows Server
+#### Windows Server
 
-### Hyper-V
+#### Hyper-V
 
-### SCCM
+#### SCCM
 
-### VMM
+#### VMM
 
-### Active Directory
+#### Active Directory
 
-### PowerShell
+#### PowerShell
 
-```
+```powershell
 Get-ADUser -Identity User1
 ```
