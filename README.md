@@ -15,4 +15,4 @@ I will, over time, add some tech notes, tutorials and links on various technolog
 
 #### PowerShell
 
-[Tutorial](.\docs\powershell\turnascriptintoatool.md)
+[Tutorial](.\docs\index.md)
