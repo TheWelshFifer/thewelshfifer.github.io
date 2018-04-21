@@ -13,4 +13,6 @@ I will, over time, add some tech notes, tutorials and links on various technolog
 
 #### Active Directory
 
-[#### PowerShell](.\powershell\powershelltutorial.md)
+#### PowerShell
+
+[Tutoarial](.\docs\powershell\powershelltutorial.md)
