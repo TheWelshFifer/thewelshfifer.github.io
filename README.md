@@ -15,4 +15,4 @@ I will, over time, add some tech notes, tutorials and links on various technolog
 
 #### PowerShell
 
-[Tutoarial](.\docs\powershell\powershelltutorial.md)
+[Tutorial](.\docs\powershell\powershelltutorial.md)
